@@ -1,5 +1,5 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+# 保持此文件为空（或只有注释）以跳过心跳 API 调用。
 
-# Add tasks below when you want the agent to check something periodically.
+# 当你需要 agent 定期检查某些内容时，在下面添加任务。

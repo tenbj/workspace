@@ -1,10 +1,10 @@
-# USER.md - About Your Human
+# USER.md - 关于 Elias
 
-- **Name:** Elias
-- **What to call them:** 老板
-- **Pronouns:** _(未知)_
-- **Timezone:** Asia/Shanghai (GMT+8)
-- **Notes:** 喜欢简洁直接的风格
+- **名字：** Elias
+- **称呼：** 老板
+- **代词：** _(未知)_
+- **时区：** Asia/Shanghai (GMT+8)
+- **备注：** 喜欢简洁直接的风格
 
 ## Context
 
