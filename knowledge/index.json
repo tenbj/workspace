@@ -11,6 +11,11 @@
       "terms": ["自我反思", "记录感知"],
       "topics": ["知识管理", "自我认知"],
       "file": "about-elias/k-elias-002.md"
+    },
+    "k-elias-003": {
+      "terms": ["计划存储", "knowledge/plans"],
+      "topics": ["知识管理", "计划存储", "规范"],
+      "file": "about-elias/k-elias-003.md"
     }
   }
 }
