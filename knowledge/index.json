@@ -1,5 +1,16 @@
 {
   "version": "1.0",
   "lastUpdated": "2026-03-28",
-  "entries": {}
+  "entries": {
+    "k-elias-001": {
+      "terms": ["elias", "沟通偏好", "工作习惯"],
+      "topics": ["elias", "沟通", "工作习惯", "偏好"],
+      "file": "about-elias/k-elias-001.md"
+    },
+    "k-elias-002": {
+      "terms": ["自我反思", "记录感知"],
+      "topics": ["知识管理", "自我认知"],
+      "file": "about-elias/k-elias-002.md"
+    }
+  }
 }
